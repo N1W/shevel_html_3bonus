@@ -1,0 +1,60 @@
+body {
+	font-family: Tahoma, serif;
+	font-size: 10px;
+	color: white;
+	background-image: url(../img/background.jpg);
+	background-size: 100%;
+}
+
+.wrapper {
+	width: 820px;
+	margin: 0 auto;
+}
+
+/* HEADER */
+header {
+	position: relative;
+	height: 200px;
+}
+
+.contacts {
+	padding-right: 8px;
+	padding-top: 152px;
+	float: right;
+}
+
+header ul {
+	margin-top: 3px;
+}
+
+header img {
+	padding-left: 5px;
+	position: absolute;
+	bottom: 0;
+}
+
+/* FOOTER */
+
+footer {
+	margin-top: 190px;
+}
+
+footer p {
+	text-align: center;
+	padding-bottom: 31px;
+}
+
+/* CONTAINER */
+
+.container {
+	width: 100%;
+}
+
+.container img {
+	vertical-align: top;
+	display: inline-block;
+}
+
+.line_2 {
+	margin-top: 50px;
+}
